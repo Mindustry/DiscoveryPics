@@ -1,0 +1,5 @@
+## Interface: 11302
+## Author: Original: fouronnes - Updated by Mindustry for BeholdTheHair
+## Title: discoveryPics
+## Notes: Automatically save a screenshot when you discover a new zone or flight path
+DiscoveryPics.lua
