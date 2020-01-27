@@ -12,5 +12,6 @@ frame:SetScript("OnEvent", function (self, event, ...)
 		end
 	else
 		Screenshot() -- take screenshot when discovering new zone
+	end
 end)	
 	
